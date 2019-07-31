@@ -136,3 +136,7 @@ java语言定义了5种线程状态，在任意一个时间点，一个县城只
 
 [wait和notify的理解与使用](https://www.cnblogs.com/eer123/p/7880789.html)
 
+[synchronized用法](https://www.jianshu.com/p/d53bf830fa09)
+
+[线程的状态转换以及基本操作](https://www.jianshu.com/p/f65ea68a4a7f)
+
