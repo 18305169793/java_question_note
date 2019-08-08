@@ -2,17 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b448e2d7-d646-4ad5-883f-61962eaca64a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/examples/IntegerUsage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/examples/StringUsage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/code/App.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/code/AppTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/code/MyTestClass.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/code/MyTestClassTest.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/code/App.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/code/AppTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/examples/StringUsage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/examples/StringUsage.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -30,26 +21,11 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/main/java/examples/StringUsage.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="435">
-              <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="23328">
-              <caret line="917" column="31" selection-start-line="917" selection-start-column="31" selection-end-line="917" selection-end-column="31" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/StringCoding.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="7884">
-              <caret line="337" column="52" selection-start-line="337" selection-start-column="52" selection-end-line="337" selection-end-column="52" />
+            <state relative-caret-position="792">
+              <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -91,7 +67,7 @@
       </MavenImportingSettings>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="x" value="64" />
     <option name="y" value="389" />
     <option name="width" value="1667" />
@@ -105,6 +81,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -159,8 +137,6 @@
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -233,12 +209,13 @@
       <workItem from="1565162057603" duration="328000" />
       <workItem from="1565163169312" duration="2694000" />
       <workItem from="1565165966354" duration="4438000" />
-      <workItem from="1565170725171" duration="1250000" />
+      <workItem from="1565170725171" duration="1300000" />
+      <workItem from="1565241372148" duration="468000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="8710000" />
+    <option name="totallyTimeSpent" value="9228000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -253,7 +230,7 @@
     <frame x="-8" y="-8" width="1843" height="1216" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20078519" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2030286" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Image Layers" order="2" />
       <window_info id="Designer" order="3" />
@@ -262,7 +239,7 @@
       <window_info id="Favorites" order="6" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32963988" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.32963988" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.32963988" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.39981532" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -349,24 +326,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/main/java/examples/StringUsage.java">
+    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/StringCoding.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="435">
-          <caret line="24" column="49" selection-start-line="24" selection-start-column="49" selection-end-line="24" selection-end-column="49" />
+        <state relative-caret-position="36">
+          <caret line="347" column="24" lean-forward="true" selection-start-line="347" selection-start-column="24" selection-end-line="347" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/String.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="23328">
-          <caret line="917" column="31" selection-start-line="917" selection-start-column="31" selection-end-line="917" selection-end-column="31" />
+        <state relative-caret-position="372">
+          <caret line="957" column="32" selection-start-line="957" selection-start-column="32" selection-end-line="957" selection-end-column="32" />
+          <folding>
+            <element signature="e#36393#36394#0" expanded="true" />
+            <element signature="e#36459#36460#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files (x86)/Java/jdk1.8.0_211/src.zip!/java/lang/StringCoding.java">
+    <entry file="file://$PROJECT_DIR$/src/main/java/examples/StringUsage.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="7884">
-          <caret line="337" column="52" selection-start-line="337" selection-start-column="52" selection-end-line="337" selection-end-column="52" />
+        <state relative-caret-position="792">
+          <caret line="31" column="59" lean-forward="true" selection-start-line="31" selection-start-column="59" selection-end-line="31" selection-end-column="59" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

@@ -1,5 +1,6 @@
 package examples;
 
+import java.nio.charset.Charset;
 import java.util.Arrays;
 
 public class StringUsage {
@@ -23,6 +24,11 @@ public class StringUsage {
         System.out.println(bytes.length);
         System.out.println(Arrays.toString(bytes).replace(",", "").trim());
         System.out.println(new String(bytes, "ASCII"));
-        value.getBytes();
+        byte[] bytes1 = value.getBytes("UTF-8");
+        byte[] bytes2 = value.getBytes("UTF-16");
+        byte[] bytes3 = value.getBytes("UTF-32");
+        System.out.println("bytes1 lenth: "+bytes1.length);
+        System.out.println("bytes2 lenth: "+bytes2.length);
+        System.out.println("bytes3 lenth: "+bytes3.length);
     }
 }
