@@ -28,7 +28,10 @@ public class StringUsage {
         byte[] bytes2 = value.getBytes("UTF-16");
         byte[] bytes3 = value.getBytes("UTF-32");
         System.out.println("bytes1 lenth: "+bytes1.length);
+        System.out.println(Arrays.toString(bytes1).replace(",", "").trim());
         System.out.println("bytes2 lenth: "+bytes2.length);
+        System.out.println(Arrays.toString(bytes2).replace(",", "").trim());
         System.out.println("bytes3 lenth: "+bytes3.length);
+        System.out.println(Arrays.toString(bytes3).replace(",", "").trim());
     }
 }
